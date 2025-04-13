@@ -88,7 +88,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
   <string role="key" value="_name"></string>
   <unicode value="Completo_editando"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="59"></int>
+  <int value="62"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="41"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -223,7 +223,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1033"></int>
+                  <int value="1099"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -237,7 +237,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.48"></unicode>
+                <unicode value="0_127_2.52"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -248,7 +248,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="dorico_espanol.pdf"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/dorico_espanol.pdf"></string>
+                  <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/dorico_espanol.pdf"></string>
                   <string role="key" value="checksum"></string>
                   <string value="62efa34216a06548963c181805811d1d"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -275,7 +275,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1055"></int>
+                  <int value="1121"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -289,7 +289,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.49"></unicode>
+                <unicode value="0_127_2.53"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
@@ -300,7 +300,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="Uso_de_Plugins.pdf"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Uso_de_Plugins.pdf"></string>
+                  <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Uso_de_Plugins.pdf"></string>
                   <string role="key" value="checksum"></string>
                   <string value="ea3cd19153071d69ad66be51fd510dbe"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -327,7 +327,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1068"></int>
+                  <int value="1135"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -341,7 +341,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.50"></unicode>
+                <unicode value="0_127_2.54"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="7">
                  <dictionary>
@@ -352,7 +352,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="dorico_5_1_tokens_en.pdf"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/dorico_5_1_tokens_en.pdf"></string>
+                  <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/dorico_5_1_tokens_en.pdf"></string>
                   <string role="key" value="checksum"></string>
                   <string value="c632f74f8b902334b3a6c8474622c295"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -379,7 +379,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="1079"></int>
+                  <int value="1146"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -393,7 +393,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.51"></unicode>
+                <unicode value="0_127_2.55"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -404,7 +404,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="dorico_5_1_popovers_en.pdf"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/dorico_5_1_popovers_en.pdf"></string>
+                  <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/dorico_5_1_popovers_en.pdf"></string>
                   <string role="key" value="checksum"></string>
                   <string value="3e48fe5195850d588f1342fe5dd748e3"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -433,7 +433,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="52"></int>
+           <int value="56"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -757,7 +757,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1028"></int>
+                        <int value="1094"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -771,7 +771,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.70"></unicode>
+                      <unicode value="33_130_2.80"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="15">
                        <dictionary>
@@ -782,7 +782,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Flows_-_Score_Merge.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Flows_-_Score_Merge.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Flows_-_Score_Merge.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a454c613fff6faa3a6819a362477fc48"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -809,7 +809,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1044"></int>
+                        <int value="1110"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -823,7 +823,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.71"></unicode>
+                      <unicode value="33_130_2.81"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="16">
                        <dictionary>
@@ -834,7 +834,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-10_a_las_19.01.04.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-10_a_las_19.01.04.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-10_a_las_19.01.04.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c472bae49b5f90bdb6e31870ebb07185"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -861,7 +861,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1051"></int>
+                        <int value="1117"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -875,7 +875,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.72"></unicode>
+                      <unicode value="33_130_2.82"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="17">
                        <dictionary>
@@ -886,7 +886,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Steinberg_Hub_Para_Usuarios_de_Finale.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Steinberg_Hub_Para_Usuarios_de_Finale.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Steinberg_Hub_Para_Usuarios_de_Finale.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="458be2a5786259105f0303f7182c08fc"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -913,7 +913,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1054"></int>
+                        <int value="1120"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -927,7 +927,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.73"></unicode>
+                      <unicode value="33_130_2.83"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="18">
                        <dictionary>
@@ -938,7 +938,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_17.09.42.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_17.09.42.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_17.09.42.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9e4266aaceb68c425c5a6375d49216d3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -965,7 +965,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1056"></int>
+                        <int value="1122"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -979,7 +979,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.74"></unicode>
+                      <unicode value="33_130_2.84"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="19">
                        <dictionary>
@@ -990,7 +990,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_16.36.10.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_16.36.10.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_16.36.10.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8225c3d219b2ceb527f0c971518b2af2"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1017,7 +1017,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1064"></int>
+                        <int value="1131"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1031,7 +1031,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.75"></unicode>
+                      <unicode value="33_130_2.85"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="20">
                        <dictionary>
@@ -1042,7 +1042,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_17.06.18.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_17.06.18.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_17.06.18.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="078e2e54cbea7c7261e5fb6a53c46e19"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1069,7 +1069,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1072"></int>
+                        <int value="1139"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1083,7 +1083,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.76"></unicode>
+                      <unicode value="33_130_2.86"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="21">
                        <dictionary>
@@ -1094,7 +1094,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_16.59.23.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_16.59.23.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_16.59.23.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="86fb822f9e60adb3147263a4cbd56825"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1121,7 +1121,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1081"></int>
+                        <int value="1148"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1135,7 +1135,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.77"></unicode>
+                      <unicode value="33_130_2.87"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1146,7 +1146,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-10_a_las_17.51.30.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-10_a_las_17.51.30.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-10_a_las_17.51.30.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f25aa6f4d3611627c6b22909a7a4c1fd"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1173,7 +1173,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1084"></int>
+                        <int value="1151"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1187,7 +1187,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.78"></unicode>
+                      <unicode value="33_130_2.88"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="23">
                        <dictionary>
@@ -1198,7 +1198,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_16.34.42.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_16.34.42.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_16.34.42.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="232c924a605934e9159a74da3465b2fe"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1225,7 +1225,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1086"></int>
+                        <int value="1153"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1239,7 +1239,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="33_130_2.79"></unicode>
+                      <unicode value="33_130_2.89"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="24">
                        <dictionary>
@@ -1250,7 +1250,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-10_a_las_18.57.01.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-10_a_las_18.57.01.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-10_a_las_18.57.01.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="873f39908b7fbd02b7e1d4536b19f07f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1279,7 +1279,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="80"></int>
+                 <int value="90"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="14"></reference>
                 </dictionary>
@@ -1459,7 +1459,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1062"></int>
+                        <int value="1128"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1473,7 +1473,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="34_127_2.12"></unicode>
+                      <unicode value="34_127_2.14"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="28">
                        <dictionary>
@@ -1484,7 +1484,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_17.29.34.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_17.29.34.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_17.29.34.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="76237b7118a0a313d2b0b1098df70bfd"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1511,7 +1511,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1066"></int>
+                        <int value="1133"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1525,7 +1525,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="34_127_2.13"></unicode>
+                      <unicode value="34_127_2.15"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="29">
                        <dictionary>
@@ -1536,7 +1536,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-26_a_las_18.40.32.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-26_a_las_18.40.32.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-26_a_las_18.40.32.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d195d0cac148b560bf8693c028d705be"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1565,7 +1565,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="14"></int>
+                 <int value="16"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="27"></reference>
                 </dictionary>
@@ -1882,7 +1882,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1047"></int>
+                        <int value="1113"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1896,7 +1896,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="39_130_2.20"></unicode>
+                      <unicode value="39_130_2.24"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="36">
                        <dictionary>
@@ -1907,7 +1907,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_16.43.23.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_16.43.23.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_16.43.23.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="bdd6688b2dcf2e616b39652bc8a42fff"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1934,7 +1934,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1049"></int>
+                        <int value="1115"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1948,7 +1948,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="39_130_2.21"></unicode>
+                      <unicode value="39_130_2.25"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="37">
                        <dictionary>
@@ -1959,7 +1959,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_16.45.25.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_16.45.25.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_16.45.25.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a651058ce2c6afef16adf025829f81ff"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1986,7 +1986,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1067"></int>
+                        <int value="1134"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2000,7 +2000,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="39_130_2.22"></unicode>
+                      <unicode value="39_130_2.26"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="38">
                        <dictionary>
@@ -2011,7 +2011,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_16.50.36.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_16.50.36.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_16.50.36.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c2194f8f8183d1a40cc6586f8e741e28"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2038,7 +2038,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1078"></int>
+                        <int value="1145"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2052,7 +2052,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="39_130_2.23"></unicode>
+                      <unicode value="39_130_2.27"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="39">
                        <dictionary>
@@ -2063,7 +2063,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_17.00.14.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_17.00.14.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_17.00.14.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="82c310d89d221e0b489bbe3d4e947834"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2092,7 +2092,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="24"></int>
+                 <int value="28"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="35"></reference>
                 </dictionary>
@@ -2270,7 +2270,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1030"></int>
+                        <int value="1096"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2284,7 +2284,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.55"></unicode>
+                      <unicode value="35_128_2.66"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="43">
                        <dictionary>
@@ -2295,7 +2295,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.11.19.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.11.19.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.11.19.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5efd6e4eb2f89b1e3e95e3e03aa32687"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2322,7 +2322,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1036"></int>
+                        <int value="1102"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2336,7 +2336,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.56"></unicode>
+                      <unicode value="35_128_2.67"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="44">
                        <dictionary>
@@ -2347,7 +2347,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.29.22.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.29.22.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.29.22.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d488062c17026eab637e7e46f9195e32"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2374,7 +2374,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1038"></int>
+                        <int value="1104"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2388,7 +2388,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.57"></unicode>
+                      <unicode value="35_128_2.68"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="45">
                        <dictionary>
@@ -2399,7 +2399,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_17.57.37.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_17.57.37.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_17.57.37.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="21f963a4b1fa3f905288014b7803fbfe"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2426,7 +2426,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1039"></int>
+                        <int value="1105"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2440,7 +2440,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.58"></unicode>
+                      <unicode value="35_128_2.69"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="46">
                        <dictionary>
@@ -2451,7 +2451,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.25.26.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.25.26.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.25.26.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="cf61dabfe77df4adf890892a72ded21c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2478,7 +2478,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1046"></int>
+                        <int value="1112"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2492,7 +2492,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.59"></unicode>
+                      <unicode value="35_128_2.70"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="47">
                        <dictionary>
@@ -2503,7 +2503,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_17.35.49.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_17.35.49.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_17.35.49.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6c3fc1ff69300209e9eab4bb0a40c9a3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2530,7 +2530,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1053"></int>
+                        <int value="1119"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2544,7 +2544,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.60"></unicode>
+                      <unicode value="35_128_2.71"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="48">
                        <dictionary>
@@ -2555,7 +2555,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.26.10.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.26.10.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.26.10.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b8e2cf5bf40d3f2284c6200d3d617676"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2582,7 +2582,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1057"></int>
+                        <int value="1123"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2596,7 +2596,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.61"></unicode>
+                      <unicode value="35_128_2.72"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="49">
                        <dictionary>
@@ -2607,7 +2607,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.12.10.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.12.10.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.12.10.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1870dd55209fc2d0241d6c632af15636"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2634,7 +2634,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1063"></int>
+                        <int value="1129"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2648,7 +2648,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.62"></unicode>
+                      <unicode value="35_128_2.73"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="50">
                        <dictionary>
@@ -2659,7 +2659,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.27.43.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.27.43.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.27.43.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c032075b720634202996bb99aa748c01"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2686,7 +2686,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1076"></int>
+                        <int value="1143"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2700,7 +2700,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.63"></unicode>
+                      <unicode value="35_128_2.74"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="51">
                        <dictionary>
@@ -2711,7 +2711,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_17.52.08.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_17.52.08.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_17.52.08.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a80310b59a1d8e1d211536e5ee156c3a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2738,7 +2738,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1077"></int>
+                        <int value="1144"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2752,7 +2752,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.64"></unicode>
+                      <unicode value="35_128_2.75"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="52">
                        <dictionary>
@@ -2763,7 +2763,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_17.41.48.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_17.41.48.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_17.41.48.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4cfe83badf8259babc8e92b84c222b58"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2790,7 +2790,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1090"></int>
+                        <int value="1157"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2804,7 +2804,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="35_128_2.65"></unicode>
+                      <unicode value="35_128_2.76"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="53">
                        <dictionary>
@@ -2815,7 +2815,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_18.26.40.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_18.26.40.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_18.26.40.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0c70b797ad8622d70b2cdeda2abf5835"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2844,7 +2844,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="66"></int>
+                 <int value="77"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="42"></reference>
                 </dictionary>
@@ -3016,7 +3016,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1035"></int>
+                        <int value="1101"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3030,7 +3030,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_131_2.25"></unicode>
+                      <unicode value="40_131_2.30"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="57">
                        <dictionary>
@@ -3041,7 +3041,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_19.27.50.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_19.27.50.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_19.27.50.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="83a1ddcda96ae46b63c6fe2005d04068"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3068,7 +3068,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1048"></int>
+                        <int value="1114"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3082,7 +3082,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_131_2.26"></unicode>
+                      <unicode value="40_131_2.31"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="58">
                        <dictionary>
@@ -3093,7 +3093,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_19.13.35.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_19.13.35.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_19.13.35.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="29aee4b7d56372d4ce61783f9187888c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3120,7 +3120,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1050"></int>
+                        <int value="1116"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3134,7 +3134,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_131_2.27"></unicode>
+                      <unicode value="40_131_2.32"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="59">
                        <dictionary>
@@ -3145,7 +3145,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_19.39.19.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_19.39.19.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_19.39.19.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="8ef675a3630fa50a9776a37330ffde8a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3172,7 +3172,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1075"></int>
+                        <int value="1142"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3186,7 +3186,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_131_2.28"></unicode>
+                      <unicode value="40_131_2.33"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="60">
                        <dictionary>
@@ -3197,7 +3197,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_19.32.21.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_19.32.21.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_19.32.21.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="db3c2e2ac91090383269c2b91ad19379"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3224,7 +3224,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1085"></int>
+                        <int value="1152"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3238,7 +3238,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_131_2.29"></unicode>
+                      <unicode value="40_131_2.34"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="61">
                        <dictionary>
@@ -3249,7 +3249,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-27_a_las_19.15.00.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-27_a_las_19.15.00.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-27_a_las_19.15.00.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="98c0e97459189904209fee4ed19f3be6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3278,7 +3278,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="30"></int>
+                 <int value="35"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="56"></reference>
                 </dictionary>
@@ -3456,7 +3456,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1060"></int>
+                     <int value="1126"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3470,7 +3470,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3_129_2.5"></unicode>
+                   <unicode value="3_129_2.6"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="65">
                     <dictionary>
@@ -3481,7 +3481,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_2025-03-28_a_las_0.28.38.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-28_a_las_0.28.38.png"></string>
+                     <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-28_a_las_0.28.38.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="bc6cc08cd21701f46065d558b221cebb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3510,7 +3510,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="6"></int>
+              <int value="7"></int>
               <string role="key" value="parentNode"></string>
               <reference key="64"></reference>
              </dictionary>
@@ -3930,7 +3930,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1034"></int>
+                        <int value="1100"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3944,7 +3944,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.80"></unicode>
+                      <unicode value="26_128_2.88"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="73">
                        <dictionary>
@@ -3955,7 +3955,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.19.03.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.19.03.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.19.03.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7295afb9248b03ecc3f9895c42fd9366"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3982,7 +3982,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1042"></int>
+                        <int value="1108"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3996,7 +3996,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.81"></unicode>
+                      <unicode value="26_128_2.89"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="74">
                        <dictionary>
@@ -4007,7 +4007,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.36.25.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.36.25.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.36.25.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ae0eda410e25b4e8e8821ad7944d24ee"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4034,7 +4034,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1061"></int>
+                        <int value="1127"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4048,7 +4048,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.82"></unicode>
+                      <unicode value="26_128_2.90"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="75">
                        <dictionary>
@@ -4059,7 +4059,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.25.04.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.25.04.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.25.04.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a66f5a378e17f4502983d7e55ac2ce2c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4086,7 +4086,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1069"></int>
+                        <int value="1136"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4100,7 +4100,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.83"></unicode>
+                      <unicode value="26_128_2.91"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="76">
                        <dictionary>
@@ -4111,7 +4111,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-09_a_las_11.50.43.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-09_a_las_11.50.43.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-09_a_las_11.50.43.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1f01b07e7b2fad11b159c71b8c60b758"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4138,7 +4138,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1073"></int>
+                        <int value="1140"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4152,7 +4152,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.84"></unicode>
+                      <unicode value="26_128_2.92"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="77">
                        <dictionary>
@@ -4163,7 +4163,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-09_a_las_11.51.16.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-09_a_las_11.51.16.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-09_a_las_11.51.16.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ff3f1566df89562e429e6c1cf7355d50"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4190,7 +4190,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1080"></int>
+                        <int value="1147"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4204,7 +4204,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.85"></unicode>
+                      <unicode value="26_128_2.93"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="78">
                        <dictionary>
@@ -4215,7 +4215,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.25.40.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.25.40.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.25.40.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b3b61d14b5f9d36603da9c5008e56803"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4242,7 +4242,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1082"></int>
+                        <int value="1149"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4256,7 +4256,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.86"></unicode>
+                      <unicode value="26_128_2.94"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="79">
                        <dictionary>
@@ -4267,7 +4267,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.19.36.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.19.36.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.19.36.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ac864304e951499db0021bb12608d3e4"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4294,7 +4294,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1088"></int>
+                        <int value="1155"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4308,7 +4308,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_128_2.87"></unicode>
+                      <unicode value="26_128_2.95"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="80">
                        <dictionary>
@@ -4319,7 +4319,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-03-08_a_las_21.38.29.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-03-08_a_las_21.38.29.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-03-08_a_las_21.38.29.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e940b9ff6692b82fa98e9af40fff749a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4348,7 +4348,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="88"></int>
+                 <int value="96"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="72"></reference>
                 </dictionary>
@@ -4512,7 +4512,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1037"></int>
+                        <int value="1103"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4526,7 +4526,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="18_127_2.22"></unicode>
+                      <unicode value="18_127_2.25"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="84">
                        <dictionary>
@@ -4537,7 +4537,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="dorico_4_3_popovers_en.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/dorico_4_3_popovers_en.pdf"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/dorico_4_3_popovers_en.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f050a659652af5c5b81c379b7f030d70"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4564,7 +4564,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1074"></int>
+                        <int value="1141"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4578,7 +4578,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="18_127_2.23"></unicode>
+                      <unicode value="18_127_2.26"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="85">
                        <dictionary>
@@ -4589,7 +4589,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/img1.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/img1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="2ee92bb87e8b81578c36e5fd23e5ff11"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4616,7 +4616,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1083"></int>
+                        <int value="1150"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4630,7 +4630,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="18_127_2.24"></unicode>
+                      <unicode value="18_127_2.27"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="86">
                        <dictionary>
@@ -4641,7 +4641,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Mousepad-EN-A4.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Mousepad-EN-A4.pdf"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Mousepad-EN-A4.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0ee2c7daa0ae93490d340489fddae85b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4670,7 +4670,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="25"></int>
+                 <int value="28"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="83"></reference>
                 </dictionary>
@@ -4903,6 +4903,256 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <int value="0"></int>
           </dictionary>
          </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="90">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Vídeo: Primeros pasos sobre la paginación"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="91">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="127_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="90"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;iframe width=&quot;1200&quot; height=&quot;675&quot; src=&quot;https://www.youtube.com/embed/oklt0CDlekE?si=y0shQ29i0MFp3ATa&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="91"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="59"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="89"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="92">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Vídeo: Números de compás y marcas de ensayo"></unicode>
+           <string role="key" value="_attributes"></string>
+           <list>
+            <tuple>
+             <string value="title"></string>
+             <list>
+              <string value="Title"></string>
+              <int value="0"></int>
+              <int value="0"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="category"></string>
+             <list>
+              <string value="Category"></string>
+              <int value="0"></int>
+              <int value="1"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="css-class"></string>
+             <list>
+              <string value="CSS class"></string>
+              <int value="0"></int>
+              <int value="2"></int>
+             </list>
+            </tuple>
+            <tuple>
+             <string value="icon"></string>
+             <list>
+              <string value="Icon"></string>
+              <int value="0"></int>
+              <int value="3"></int>
+             </list>
+            </tuple>
+           </list>
+           <string role="key" value="_author"></string>
+           <string value=""></string>
+           <string role="key" value="_iDeviceDir"></string>
+           <string value="text"></string>
+           <string role="key" value="_purpose"></string>
+           <string value=""></string>
+           <string role="key" value="_tip"></string>
+           <string value=""></string>
+           <string role="key" value="_typeName"></string>
+           <unicode value="Text"></unicode>
+           <string role="key" value="_valid"></string>
+           <bool value="1"></bool>
+           <string role="key" value="class_"></string>
+           <unicode value="text"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+           <int value="1"></int>
+           <string role="key" value="fields"></string>
+           <list>
+            <instance class="exe.engine.field.TextAreaField" reference="93">
+             <dictionary>
+              <string role="key" value="_id"></string>
+              <unicode value="128_2"></unicode>
+              <string role="key" value="_idevice"></string>
+              <reference key="92"></reference>
+              <string role="key" value="_instruc"></string>
+              <string value=""></string>
+              <string role="key" value="_name"></string>
+              <string value=""></string>
+              <string role="key" value="anchor_names"></string>
+              <list></list>
+              <string role="key" value="content_w_resourcePaths"></string>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;iframe width=&quot;1200&quot; height=&quot;675&quot; src=&quot;https://www.youtube.com/embed/Qx4biy7oHjg?si=ZETtQDSQ3io34FWX&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+              <int value="4"></int>
+              <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+              <int value="3"></int>
+              <string role="key" value="htmlTag"></string>
+              <string value="div"></string>
+              <string role="key" value="images"></string>
+              <instance class="exe.engine.galleryidevice.GalleryImages">
+               <dictionary>
+                <string role="key" value=".listitems"></string>
+                <list></list>
+                <string role="key" value="idevice"></string>
+                <reference key="93"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="intlinks_to_anchors"></string>
+              <dictionary></dictionary>
+              <string role="key" value="nextImageId"></string>
+              <int value="0"></int>
+              <string role="key" value="parentNode"></string>
+              <none></none>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="icon"></string>
+           <unicode value=""></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="60"></unicode>
+           <string role="key" value="ideviceCategory"></string>
+           <unicode value="Text and Tasks"></unicode>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="nextFieldId"></string>
+           <int value="3"></int>
+           <string role="key" value="originalicon"></string>
+           <string value=""></string>
+           <string role="key" value="parentNode"></string>
+           <reference key="89"></reference>
+           <string role="key" value="systemResources"></string>
+           <list></list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
         </list>
         <string role="key" value="_id"></string>
         <unicode value="36"></unicode>
@@ -4922,13 +5172,13 @@ Autor: Alberto Ramírez Martínez"></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="92">
+         <instance class="exe.engine.node.Node" reference="96">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="PREGUNTAS USUARIOS FINALE"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="90">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="94">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -4989,12 +5239,12 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="91">
+               <instance class="exe.engine.field.TextAreaField" reference="95">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="127_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="90"></reference>
+                 <reference key="94"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5024,7 +5274,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="91"></reference>
+                   <reference key="95"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5032,7 +5282,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="92"></reference>
+                 <reference key="96"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5049,7 +5299,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="92"></reference>
+              <reference key="96"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5081,13 +5331,13 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="95">
+         <instance class="exe.engine.node.Node" reference="99">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Crear Plantilla"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="93">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5148,12 +5398,12 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="94">
+               <instance class="exe.engine.field.TextAreaField" reference="98">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="131_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="93"></reference>
+                 <reference key="97"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5211,7 +5461,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1027"></int>
+                        <int value="1093"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5225,18 +5475,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.10"></unicode>
+                      <unicode value="55_131_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="96">
+                      <instance class="exe.engine.resource.Resource" reference="100">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.42.30.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.42.30.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.42.30.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d66334423d29452710784bad96ef7c9a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5248,7 +5498,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5263,7 +5513,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1029"></int>
+                        <int value="1095"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5277,18 +5527,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.11"></unicode>
+                      <unicode value="55_131_2.18"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="97">
+                      <instance class="exe.engine.resource.Resource" reference="101">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.45.38.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.45.38.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.45.38.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="82358668933c5d6f1071fc26b150715e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5300,7 +5550,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5315,7 +5565,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1032"></int>
+                        <int value="1098"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5329,18 +5579,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.12"></unicode>
+                      <unicode value="55_131_2.19"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="98">
+                      <instance class="exe.engine.resource.Resource" reference="102">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_12.27.54.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_12.27.54.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_12.27.54.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ca8407e021ea0ce081cb6c09e3830980"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5352,7 +5602,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5367,7 +5617,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1041"></int>
+                        <int value="1107"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5381,18 +5631,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.13"></unicode>
+                      <unicode value="55_131_2.20"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="99">
+                      <instance class="exe.engine.resource.Resource" reference="103">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_12.06.49.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_12.06.49.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_12.06.49.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="134bf80acd82cefb428e1ec9f2defcb0"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5404,7 +5654,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5419,7 +5669,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1059"></int>
+                        <int value="1125"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5433,18 +5683,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.14"></unicode>
+                      <unicode value="55_131_2.21"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="100">
+                      <instance class="exe.engine.resource.Resource" reference="104">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_20.31.25.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_20.31.25.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_20.31.25.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4decba2dc7a05ded660631830eff8f3f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5456,7 +5706,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5471,7 +5721,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1070"></int>
+                        <int value="1137"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5485,18 +5735,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.15"></unicode>
+                      <unicode value="55_131_2.22"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="101">
+                      <instance class="exe.engine.resource.Resource" reference="105">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.46.07.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.46.07.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.46.07.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7460d97ac1dbb6eb2538e95aaef44595"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5508,7 +5758,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5523,7 +5773,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1091"></int>
+                        <int value="1158"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5537,18 +5787,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="55_131_2.16"></unicode>
+                      <unicode value="55_131_2.23"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="102">
+                      <instance class="exe.engine.resource.Resource" reference="106">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="93"></reference>
+                        <reference key="97"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_12.30.54.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_12.30.54.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_12.30.54.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="13b483453e67fb815755841e8fa90a66"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5560,7 +5810,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="94"></reference>
+                      <reference key="98"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5571,15 +5821,15 @@ Autor: Alberto Ramírez Martínez"></unicode>
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="94"></reference>
+                   <reference key="98"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="17"></int>
+                 <int value="24"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="95"></reference>
+                 <reference key="99"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5596,21 +5846,146 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="95"></reference>
+              <reference key="99"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="96"></reference>
-               <reference key="97"></reference>
-               <reference key="98"></reference>
-               <reference key="99"></reference>
                <reference key="100"></reference>
                <reference key="101"></reference>
                <reference key="102"></reference>
+               <reference key="103"></reference>
+               <reference key="104"></reference>
+               <reference key="105"></reference>
+               <reference key="106"></reference>
               </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="107">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Vídeo: Crear plantilla de páginas"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="108">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="129_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="107"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;iframe width=&quot;1200&quot; height=&quot;675&quot; src=&quot;https://www.youtube.com/embed/ZCfJG079Jtk?si=5psCHwFbKmYGjRLE&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="108"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="61"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="99"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
@@ -5636,13 +6011,13 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="105">
+         <instance class="exe.engine.node.Node" reference="111">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Recomendaciones"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="109">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5703,12 +6078,12 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="104">
+               <instance class="exe.engine.field.TextAreaField" reference="110">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="127_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="103"></reference>
+                 <reference key="109"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5752,7 +6127,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1031"></int>
+                        <int value="1097"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5766,18 +6141,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.10"></unicode>
+                      <unicode value="56_127_2.20"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="106">
+                      <instance class="exe.engine.resource.Resource" reference="112">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.31.20.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.31.20.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.31.20.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="9260e3722d3f31b91edc1c3131856498"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5789,7 +6164,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5804,7 +6179,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1040"></int>
+                        <int value="1106"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5818,18 +6193,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.11"></unicode>
+                      <unicode value="56_127_2.21"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="107">
+                      <instance class="exe.engine.resource.Resource" reference="113">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_20.52.51.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_20.52.51.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_20.52.51.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="26d91382221ef9aaffa6916822d69432"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5841,7 +6216,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5856,7 +6231,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1043"></int>
+                        <int value="1109"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5870,18 +6245,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.12"></unicode>
+                      <unicode value="56_127_2.22"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="108">
+                      <instance class="exe.engine.resource.Resource" reference="114">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.30.59.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.30.59.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.30.59.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3a20d59a4119a01bfe92cd81781b6924"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5893,7 +6268,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5908,7 +6283,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1045"></int>
+                        <int value="1111"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5922,18 +6297,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.13"></unicode>
+                      <unicode value="56_127_2.23"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="109">
+                      <instance class="exe.engine.resource.Resource" reference="115">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.19.18.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.19.18.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.19.18.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c26914dbf1a8bf3e75e2c0431c32d64b"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5945,7 +6320,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -5960,7 +6335,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1052"></int>
+                        <int value="1118"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5974,18 +6349,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.14"></unicode>
+                      <unicode value="56_127_2.24"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="110">
+                      <instance class="exe.engine.resource.Resource" reference="116">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.39.31.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.39.31.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.39.31.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b4b84c1ea02349e270aaf314f6ea427c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5997,7 +6372,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6012,7 +6387,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1058"></int>
+                        <int value="1124"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6026,18 +6401,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.15"></unicode>
+                      <unicode value="56_127_2.25"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="111">
+                      <instance class="exe.engine.resource.Resource" reference="117">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_20.46.44.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_20.46.44.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_20.46.44.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f5ec71b86b3a79b9e0d5bef948009001"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6049,7 +6424,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6064,7 +6439,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1065"></int>
+                        <int value="1132"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6078,18 +6453,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.16"></unicode>
+                      <unicode value="56_127_2.26"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="112">
+                      <instance class="exe.engine.resource.Resource" reference="118">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.14.35.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.14.35.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.14.35.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6d4b6a3ec5835b95afb4b8cd4a14b7af"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6101,7 +6476,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6116,7 +6491,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1071"></int>
+                        <int value="1138"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6130,18 +6505,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.17"></unicode>
+                      <unicode value="56_127_2.27"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="113">
+                      <instance class="exe.engine.resource.Resource" reference="119">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.30.26.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.30.26.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.30.26.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="52a5284eaaf4c5e6b3b78e085401ef54"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6153,7 +6528,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6168,7 +6543,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1087"></int>
+                        <int value="1154"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6182,18 +6557,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.18"></unicode>
+                      <unicode value="56_127_2.28"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="114">
+                      <instance class="exe.engine.resource.Resource" reference="120">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_20.48.02.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_20.48.02.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_20.48.02.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="48287a68d3591e6d83d14d4bd79f66f8"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6205,7 +6580,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6220,7 +6595,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="1089"></int>
+                        <int value="1156"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6234,18 +6609,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="56_127_2.19"></unicode>
+                      <unicode value="56_127_2.29"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="115">
+                      <instance class="exe.engine.resource.Resource" reference="121">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="103"></reference>
+                        <reference key="109"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Captura_de_pantalla_2025-04-06_a_las_19.15.38.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpRyAGl4/Captura_de_pantalla_2025-04-06_a_las_19.15.38.png"></string>
+                        <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_pantalla_2025-04-06_a_las_19.15.38.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e7e765f7cc02bd652219718f3512ab68"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6257,7 +6632,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="104"></reference>
+                      <reference key="110"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6268,15 +6643,15 @@ Autor: Alberto Ramírez Martínez"></unicode>
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="104"></reference>
+                   <reference key="110"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="20"></int>
+                 <int value="30"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="105"></reference>
+                 <reference key="111"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -6293,23 +6668,23 @@ Autor: Alberto Ramírez Martínez"></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="105"></reference>
+              <reference key="111"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="106"></reference>
-               <reference key="107"></reference>
-               <reference key="108"></reference>
-               <reference key="109"></reference>
-               <reference key="110"></reference>
-               <reference key="111"></reference>
                <reference key="112"></reference>
                <reference key="113"></reference>
                <reference key="114"></reference>
                <reference key="115"></reference>
+               <reference key="116"></reference>
+               <reference key="117"></reference>
+               <reference key="118"></reference>
+               <reference key="119"></reference>
+               <reference key="120"></reference>
+               <reference key="121"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -6339,13 +6714,13 @@ Autor: Alberto Ramírez Martínez"></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="118">
+      <instance class="exe.engine.node.Node" reference="124">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Reproducción"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="116">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="122">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -6406,12 +6781,12 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="117">
+            <instance class="exe.engine.field.TextAreaField" reference="123">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="129_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="116"></reference>
+              <reference key="122"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -6442,7 +6817,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="1092"></int>
+                     <int value="1130"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -6456,18 +6831,18 @@ Autor: Alberto Ramírez Martínez"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="58_129_2.0"></unicode>
+                   <unicode value="58_129_2.1"></unicode>
                    <string role="key" value="_imageResource"></string>
-                   <instance class="exe.engine.resource.Resource" reference="119">
+                   <instance class="exe.engine.resource.Resource" reference="125">
                     <dictionary>
                      <string role="key" value="_idevice"></string>
-                     <reference key="116"></reference>
+                     <reference key="122"></reference>
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_Pantalla_2025-04-06_a_las_22.17.48.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/hn/n2j0t7r90q5chx0_fr2bjyb00000gn/T/tmpWMDrsI.eXe/previews/Captura_de_Pantalla_2025-04-06_a_las_22.17.48.png"></string>
+                     <string value="/var/folders/s1/3fhl856x44qb_353k7pcqm2c0000gn/T/tmp_2UW2A/Captura_de_Pantalla_2025-04-06_a_las_22.17.48.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9f3db1649003d500188303686dd82f6f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6479,7 +6854,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_parent"></string>
-                   <reference key="117"></reference>
+                   <reference key="123"></reference>
                    <string role="key" value="_thumbnailResource"></string>
                    <none></none>
                    <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -6490,15 +6865,15 @@ Autor: Alberto Ramírez Martínez"></unicode>
                  </instance>
                 </list>
                 <string role="key" value="idevice"></string>
-                <reference key="117"></reference>
+                <reference key="123"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="2"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="118"></reference>
+              <reference key="124"></reference>
              </dictionary>
             </instance>
            </list>
@@ -6515,14 +6890,14 @@ Autor: Alberto Ramírez Martínez"></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="118"></reference>
+           <reference key="124"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
            <bool value="1"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="119"></reference>
+            <reference key="125"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -6571,13 +6946,13 @@ Autor: Alberto Ramírez Martínez"></unicode>
    <unicode role="key" value="36"></unicode>
    <reference key="89"></reference>
    <unicode role="key" value="37"></unicode>
-   <reference key="92"></reference>
+   <reference key="96"></reference>
    <unicode role="key" value="38"></unicode>
-   <reference key="95"></reference>
+   <reference key="99"></reference>
    <unicode role="key" value="39"></unicode>
-   <reference key="105"></reference>
+   <reference key="111"></reference>
    <unicode role="key" value="40"></unicode>
-   <reference key="118"></reference>
+   <reference key="124"></reference>
    <unicode role="key" value="8"></unicode>
    <reference key="83"></reference>
    <unicode role="key" value="9"></unicode>
@@ -6592,7 +6967,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="118"></reference>
+  <reference key="89"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -7849,11 +8224,11 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="134bf80acd82cefb428e1ec9f2defcb0"></string>
    <list>
-    <reference key="99"></reference>
+    <reference key="103"></reference>
    </list>
    <string role="key" value="13b483453e67fb815755841e8fa90a66"></string>
    <list>
-    <reference key="102"></reference>
+    <reference key="106"></reference>
    </list>
    <string role="key" value="1870dd55209fc2d0241d6c632af15636"></string>
    <list>
@@ -7873,7 +8248,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="26d91382221ef9aaffa6916822d69432"></string>
    <list>
-    <reference key="107"></reference>
+    <reference key="113"></reference>
    </list>
    <string role="key" value="29aee4b7d56372d4ce61783f9187888c"></string>
    <list>
@@ -7885,7 +8260,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="3a20d59a4119a01bfe92cd81781b6924"></string>
    <list>
-    <reference key="108"></reference>
+    <reference key="114"></reference>
    </list>
    <string role="key" value="3e48fe5195850d588f1342fe5dd748e3"></string>
    <list>
@@ -7897,7 +8272,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="48287a68d3591e6d83d14d4bd79f66f8"></string>
    <list>
-    <reference key="114"></reference>
+    <reference key="120"></reference>
    </list>
    <string role="key" value="4cfe83badf8259babc8e92b84c222b58"></string>
    <list>
@@ -7905,11 +8280,11 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="4decba2dc7a05ded660631830eff8f3f"></string>
    <list>
-    <reference key="100"></reference>
+    <reference key="104"></reference>
    </list>
    <string role="key" value="52a5284eaaf4c5e6b3b78e085401ef54"></string>
    <list>
-    <reference key="113"></reference>
+    <reference key="119"></reference>
    </list>
    <string role="key" value="5efd6e4eb2f89b1e3e95e3e03aa32687"></string>
    <list>
@@ -7925,7 +8300,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="6d4b6a3ec5835b95afb4b8cd4a14b7af"></string>
    <list>
-    <reference key="112"></reference>
+    <reference key="118"></reference>
    </list>
    <string role="key" value="7295afb9248b03ecc3f9895c42fd9366"></string>
    <list>
@@ -7933,7 +8308,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="7460d97ac1dbb6eb2538e95aaef44595"></string>
    <list>
-    <reference key="101"></reference>
+    <reference key="105"></reference>
    </list>
    <string role="key" value="76237b7118a0a313d2b0b1098df70bfd"></string>
    <list>
@@ -7945,7 +8320,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="82358668933c5d6f1071fc26b150715e"></string>
    <list>
-    <reference key="97"></reference>
+    <reference key="101"></reference>
    </list>
    <string role="key" value="82c310d89d221e0b489bbe3d4e947834"></string>
    <list>
@@ -7969,7 +8344,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="9260e3722d3f31b91edc1c3131856498"></string>
    <list>
-    <reference key="106"></reference>
+    <reference key="112"></reference>
    </list>
    <string role="key" value="98c0e97459189904209fee4ed19f3be6"></string>
    <list>
@@ -7981,7 +8356,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="9f3db1649003d500188303686dd82f6f"></string>
    <list>
-    <reference key="119"></reference>
+    <reference key="125"></reference>
    </list>
    <string role="key" value="a454c613fff6faa3a6819a362477fc48"></string>
    <list>
@@ -8013,7 +8388,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="b4b84c1ea02349e270aaf314f6ea427c"></string>
    <list>
-    <reference key="110"></reference>
+    <reference key="116"></reference>
    </list>
    <string role="key" value="b8e2cf5bf40d3f2284c6200d3d617676"></string>
    <list>
@@ -8037,7 +8412,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="c26914dbf1a8bf3e75e2c0431c32d64b"></string>
    <list>
-    <reference key="109"></reference>
+    <reference key="115"></reference>
    </list>
    <string role="key" value="c472bae49b5f90bdb6e31870ebb07185"></string>
    <list>
@@ -8049,7 +8424,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="ca8407e021ea0ce081cb6c09e3830980"></string>
    <list>
-    <reference key="98"></reference>
+    <reference key="102"></reference>
    </list>
    <string role="key" value="cf61dabfe77df4adf890892a72ded21c"></string>
    <list>
@@ -8065,7 +8440,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="d66334423d29452710784bad96ef7c9a"></string>
    <list>
-    <reference key="96"></reference>
+    <reference key="100"></reference>
    </list>
    <string role="key" value="db3c2e2ac91090383269c2b91ad19379"></string>
    <list>
@@ -8073,7 +8448,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="e7e765f7cc02bd652219718f3512ab68"></string>
    <list>
-    <reference key="115"></reference>
+    <reference key="121"></reference>
    </list>
    <string role="key" value="e940b9ff6692b82fa98e9af40fff749a"></string>
    <list>
@@ -8093,7 +8468,7 @@ Autor: Alberto Ramírez Martínez"></unicode>
    </list>
    <string role="key" value="f5ec71b86b3a79b9e0d5bef948009001"></string>
    <list>
-    <reference key="111"></reference>
+    <reference key="117"></reference>
    </list>
    <string role="key" value="ff3f1566df89562e429e6c1cf7355d50"></string>
    <list>
